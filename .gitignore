@@ -2,6 +2,9 @@
 .idea
 out/
 
+# Visual Studio Code
+.vscode
+
 # Compiled class file
 *.class
 
