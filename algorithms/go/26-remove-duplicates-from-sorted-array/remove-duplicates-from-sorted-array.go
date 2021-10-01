@@ -1,4 +1,4 @@
-package leetcode
+package package26
 
 // removeDuplicates dual pointer(快慢指针)
 func removeDuplicates(nums []int) int {
