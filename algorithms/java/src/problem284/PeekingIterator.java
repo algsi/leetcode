@@ -2,9 +2,6 @@ package problem284;
 
 import java.util.Iterator;
 
-/**
- * @author Xavier Li
- */
 public class PeekingIterator implements Iterator<Integer> {
 
     private final Iterator<Integer> iterator;

@@ -1,8 +1,5 @@
 package problem66;
 
-/**
- * @author Xavier Li
- */
 public class PlusOne {
 
     public int[] plusOne(int[] digits) {
