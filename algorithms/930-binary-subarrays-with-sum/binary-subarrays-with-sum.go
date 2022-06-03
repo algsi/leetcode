@@ -1,4 +1,4 @@
-package main
+package problem930
 
 // numSubArraysWithSumV1 哈希表 + 前缀和
 // 时间复杂度：O(n)
