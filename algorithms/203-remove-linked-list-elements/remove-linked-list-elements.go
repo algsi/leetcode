@@ -1,4 +1,4 @@
-package problems203
+package problem203
 
 type ListNode struct {
 	Val  int

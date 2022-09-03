@@ -1,4 +1,4 @@
-package problems213
+package problem213
 
 func max(x, y int) int {
 	if x < y {

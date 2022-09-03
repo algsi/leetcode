@@ -1,4 +1,4 @@
-package problems692
+package problem692
 
 import (
 	"container/heap"
